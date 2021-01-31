@@ -1,6 +1,6 @@
 
 # Golang Challenge
-
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/toomore/gogrs/master/LICENSE)
 This is a project that keeps track of all of the small projects that have been completed in go.
 
 ## Progress 
